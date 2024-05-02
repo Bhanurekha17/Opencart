@@ -1,0 +1,39 @@
+15:05:21.174 [main] INFO  testcases.TC001_AccountRegistrationTest - **** starting TC_001_AccountRegistrationTest  *****
+15:05:21.187 [main] INFO  testcases.TC001_AccountRegistrationTest - homepage
+15:06:06.995 [main] INFO  testcases.TC001_AccountRegistrationTest - **** starting TC_001_AccountRegistrationTest  *****
+15:06:07.005 [main] INFO  testcases.TC001_AccountRegistrationTest - homepage
+15:07:17.044 [main] INFO  testcases.TC001_AccountRegistrationTest - **** starting TC_001_AccountRegistrationTest  *****
+15:07:17.062 [main] INFO  testcases.TC001_AccountRegistrationTest - homepage
+15:08:29.974 [main] INFO  testcases.TC_002_LoginTest - **** Starting TC_002_LoginTest  ****
+15:29:26.825 [main] INFO  testcases.TC_002_LoginTest - **** Starting TC_002_LoginTest  ****
+15:30:11.125 [main] INFO  testcases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+15:30:41.201 [main] INFO  testcases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+15:31:11.235 [main] INFO  testcases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+15:31:41.321 [main] INFO  testcases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+15:32:11.384 [main] INFO  testcases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+16:28:24.787 [main] INFO  testcases.TC_002_LoginTest - **** Starting TC_002_LoginTest  ****
+16:29:08.615 [main] INFO  testcases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+16:29:39.251 [main] INFO  testcases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+16:30:09.655 [main] INFO  testcases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+16:30:39.888 [main] INFO  testcases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+16:31:10.157 [main] INFO  testcases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+18:39:14.531 [main] INFO  testcases.TC001_AccountRegistrationTest - **** starting TC_001_AccountRegistrationTest  *****
+18:39:14.543 [main] INFO  testcases.TC001_AccountRegistrationTest - homepage
+18:39:54.330 [main] INFO  testcases.TC_002_LoginTest - **** Starting TC_002_LoginTest  ****
+18:45:11.383 [main] INFO  testcases.TC_002_LoginTest - **** Starting TC_002_LoginTest  ****
+15:19:44.601 [main] INFO  testcases.TC_002_LoginTest - **** Starting TC_002_LoginTest  ****
+15:19:45.103 [main] INFO  testcases.TC_002_LoginTest - clicked on myaccount link on the home page..
+15:19:46.013 [main] INFO  testcases.TC_002_LoginTest - clicked on login link under myaccount..
+15:19:46.044 [main] INFO  testcases.TC_002_LoginTest - Entering valid email and password..
+15:23:58.836 [main] INFO  testcases.TC001_AccountRegistrationTest - **** starting TC_001_AccountRegistrationTest  *****
+15:23:58.849 [main] INFO  testcases.TC001_AccountRegistrationTest - homepage
+15:23:59.867 [main] INFO  testcases.TC001_AccountRegistrationTest - Clicked on registration link
+15:23:59.867 [main] INFO  testcases.TC001_AccountRegistrationTest - clicked on continue..
+15:23:59.867 [main] INFO  testcases.TC001_AccountRegistrationTest - Validating expected message..
+15:24:12.200 [main] INFO  testcases.TC001_AccountRegistrationTest - clicked on continue..
+15:24:12.201 [main] INFO  testcases.TC001_AccountRegistrationTest - Validating expected message..
+15:24:20.583 [main] INFO  testcases.TC_002_LoginTest - **** Starting TC_002_LoginTest  ****
+15:24:21.102 [main] INFO  testcases.TC_002_LoginTest - clicked on myaccount link on the home page..
+15:24:21.881 [main] INFO  testcases.TC_002_LoginTest - clicked on login link under myaccount..
+15:24:21.930 [main] INFO  testcases.TC_002_LoginTest - Entering valid email and password..
+15:24:41.576 [main] INFO  testcases.TC_002_LoginTest - **** Finished TC_002_LoginTest  ****
